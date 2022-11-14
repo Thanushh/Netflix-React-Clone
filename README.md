@@ -9,12 +9,6 @@ Leave a 🌟 if you've liked the project.
 ##ImagePreview
 ![](https://github.com/Thanushh/Netflix-React-Clone/blob/main/project-screenshots/project-image-preview.gif)
 
-Your can view the project by clicking on this link 
-https://netflix-react-clone-d63ac.web.app/
-
-**`DON'T PROVIDE YOUR MAIL PASSWORD** ..use a basic PASSWORD like **123456`**
-
-
 
 ## Environment Variables
 
