@@ -6,7 +6,7 @@ This project was created using React.js for frontend and Firebase as backend.
 Leave a 🌟 if you've liked the project.
 ## Demo
 
-##ImagePreview
+<I>ImagePreview</I>
 ![](https://github.com/Thanushh/Netflix-React-Clone/blob/main/project-screenshots/project-image-preview.gif)
 
 
